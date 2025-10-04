@@ -1,77 +1,78 @@
-# Hi there 👋, I'm Ayush Anand  
+<!-- Profile Header with Animation -->
+<h1 align="center">
+  Hi 👋, I'm Ayush Anand  
+</h1>
 
-## ✨ About Me  
-💻 Profession/Role: **B.Tech CSE Student | Software Developer**  
-🎯 Passionate about: **Full-Stack Development, AI/ML, Cloud Computing, and Open Source**  
-🌍 Currently based in: **Pune, India**  
-⚡ Fun Fact: *I can talk for hours about astrophysics, the cosmos.
-
----
-
-## 🛠️ Skills & Technologies  
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### Web & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Aceternity UI](https://img.shields.io/badge/Aceternity-5A67D8?style=for-the-badge&logo=generic&logoColor=white)  
-
-### Backend & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-
-### Academic Coursework
-DSA | OOPS | Operating System | Computer Networks | DBMS  
-
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-BlueJ | Postman  
-
-### Soft Skills
-Communication | Leadership | Consistent | Decision-Making  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&width=500&lines=Software+Developer;Full-Stack+Engineer;Problem+Solver;Open-Source+Contributor" />
+</p>
 
 ---
 
-## 🚀 Favorite Projects  
+## 🚀 About Me  
+🎓 B.Tech in IT @ IIIT Lucknow (CGPA: **8.92/10**)  
+💻 Software Development Intern @ **Amazon**  
+⚡ Passionate about building scalable systems, competitive programming & impactful projects.  
+🌱 Currently learning **Cloud-native development** & advanced **DSA**.  
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🛠️ Tech Stack  
 
-- ✅ **Google Cloud Fundamentals**  
-- ✅ **Java Programming Certification**  
-- ✅ **Data Structures & Algorithms Specialization**   
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,c,sql" />
+</p>
+
+### 🌐 Frontend & UI  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron" />
+</p>
+
+### ⚙️ Backend & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,express,nodejs,aws,dynamodb,mongodb,postgres,firebase,redis" />
+</p>
+
+### 🧰 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,intellij,slack" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-09848b292/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com) *(Under Development)*  
+## 📂 Featured Projects  
+
+🔹 **[NotSoCold](https://github.com/ayushh404/NotSoCold)** – A Chrome extension automating LinkedIn outreach using **OpenAI API**.  
+
+🔹 **[WagerWars](https://github.com/ayushh404/WagerWars)** – A betting platform (React + Tailwind + Express + Twilio) with **real-time engagement**.  
+
+---
+
+## 🏆 Achievements  
+- 🌍 **Global Rank 632** in CodeChef January Long 2023 (Div 4)  
+- 🥉 **Top 3.3k** in CodeForces Round 925 (Div 3)  
+- 🥈 **Top 4k** in CodeForces Round 963 (Div 2)  
+- ✅ Solved **300+ DSA problems** across platforms  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITYAAR-2358&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight" alt="GitHub Streak" width="48%"/>  
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushh404&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushh404&theme=radical" alt="streak"/>
+</p>
 
 ---
 
-## 👀 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=ADITYA-KUMAR-2358&style=flat-square&color=blue)  
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:ayushanand.iiit@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/ayush-anand-37a64a244"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/ayushh404"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://leetcode.com/u/Ayushh404/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+</p>
+
+---
+⭐️ From [Ayush Anand](https://github.com/ayushh404)
